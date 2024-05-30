@@ -1,3 +1,3 @@
-# Birthday Conveter
+# Get Day 
 
 ![birthday](date.jpeg)
